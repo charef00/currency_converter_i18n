@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Convertisseur de devises</string>
+    <string name="from">De</string>
+    <string name="to">À</string>
+    <string name="amount">Montant</string>
+    <string name="convert">Convertir</string>
+    <string name="next">Suivant</string>
+</resources>
